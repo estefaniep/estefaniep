@@ -18,15 +18,15 @@ Feel free to check out my portfolio!
 ## Connect With Me!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/estefanieparra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Estefanie%20Parra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a><!
-  ><a href="mailto:estefpty@gmail.com">
-    <img src="https://img.shields.io/badge/Email-estefpty%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a><!
-  ><a href="https://www.estefanie.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-estefanie.dev-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/estefanieparra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Estefanie%20Parra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a><!--
+  --><a href="mailto:estefpty@gmail.com">
+    <img src="https://img.shields.io/badge/Email-estefpty%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a><!--
+  --><a href="https://www.estefanie.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-estefanie.dev-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
 </p>
 
 
