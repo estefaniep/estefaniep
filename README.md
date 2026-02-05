@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/WQMhLpGQ-asAAAAj/computer-repair-computer.gif" height="100" align="right" />
 <p align="left">
-<img src="https://img.shields.io/badge/AI%20%26%20Parallel%20Computing-4B8BBE?style=flat-square&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20Parallel%20Computing%20Research-4B8BBE?style=flat-square&logo=brain&logoColor=white" />
 
 </p>
 
