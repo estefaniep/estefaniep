@@ -7,7 +7,7 @@
 </p>
 
 
-I’m a student at the University of Central Florida studying Molcecullar and Cellular Biology with a minor in Leadership Studies on the pre-med track. I am a Hackathon Organizer @ Knight Hacks, where we run one of the largest student-led hackathons bringing in 1k hackers sharing three common goals: building, learning and collaborating. I also work as a Medical Assistant @ Florida ENT, current undergrad research assistant @ S.M.A.R.T. lab, Peer Mentor @ UCF COM and Tresurer for It Takes A Village @ UCF. 
+I’m a student at the University of Central Florida studying Molcecullar and Cellular Biology with a minor in Leadership Studies on the pre-med track. I am a Hackathon Organizer @ Knight Hacks, where we run one of the largest student-led hackathons bringing in 1k hackers sharing three common goals: building, learning and collaborating. I also work as a Medical Assistant @ Florida ENT, current undergrad research assistant @ S.M.A.R.T. lab, Peer Mentor @ UCF COM and Treasurer for It Takes A Village @ UCF. 
 <br>
 <br>
 I first got involved with tech as a volunteer at Knight Hacks, it's contagious collaborative and creative environment pushed me to learn how to code, so here I am!
